@@ -1,0 +1,37 @@
+2020-08-03 20:53:13	Update #8: Completed!
+2020-08-03 20:53:13	Update #9: Initializing update
+2020-08-03 20:53:14	Update #9: Added: Pages > Recent
+2020-08-03 20:53:14	Update #9: Completed!
+2020-08-03 20:53:30	Update #10: Initializing update
+2020-08-03 20:53:30	Update #10: Installed ProcessLogger and added: Setup > Logs
+2020-08-03 20:53:30	Update #10: Installed InputfieldIcon
+2020-08-03 20:53:30	Update #10: Completed!
+2020-08-03 20:53:34	Update #11: Initializing update
+2020-08-03 20:53:34	Update #11: Completed!
+2020-08-03 20:53:34	Update #17: Created: /bap/site/assets/.htaccess
+2020-08-03 20:53:34	Update #17: Created: /bap/site/templates/.htaccess
+2020-08-03 20:53:35	Update #17: Created: /bap/site/modules/.htaccess
+2020-08-03 20:53:35	Update #12: Initializing update
+2020-08-03 20:53:35	Update #12: Added 'published' column to pages table
+2020-08-03 20:53:35	Update #12: Populated values to 'published' for 48 pages
+2020-08-03 20:53:35	Update #12: Completed!
+2020-08-03 20:53:35	Update #13: Initializing update
+2020-08-03 20:53:35	Update #13: Completed!
+2020-08-03 20:53:35	Update #14: Initializing update
+2020-08-03 20:53:35	Update #14: Completed!
+2020-08-03 20:53:35	Update #15: Initializing update
+2020-08-03 20:53:36	Update #15: Completed!
+2020-08-03 20:53:36	Update #16: Initializing update
+2020-08-03 20:53:36	Update #16: Completed!
+2020-08-03 20:53:46	Update #17: Initializing update
+2020-08-03 20:53:46	Update #17: Skipped: /bap/site/.htaccess (already exists)
+2020-08-03 20:53:46	Update #17: Skipped: /bap/site/assets/.htaccess (already exists)
+2020-08-03 20:53:46	Update #17: Skipped: /bap/site/assets/cache/.htaccess (already exists)
+2020-08-03 20:53:46	Update #17: Skipped: /bap/site/assets/backups/.htaccess (already exists)
+2020-08-03 20:53:46	Update #17: Skipped: /bap/site/assets/logs/.htaccess (already exists)
+2020-08-03 20:53:46	Update #17: Skipped: /bap/site/templates/.htaccess (already exists)
+2020-08-03 20:53:46	Update #17: Skipped: /bap/site/modules/.htaccess (already exists)
+2020-08-03 20:53:46	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2020-08-03 20:53:46	Update #17: Completed!
+2020-08-03 20:53:52	Update #18: Initializing update
+2020-08-03 20:53:52	Update #18: Completed!
